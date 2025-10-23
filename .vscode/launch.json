@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "SmartFIT (Dev)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "args": [
+        "--dart-define=GEMINI_API_KEY=AIzaSyBsd-4FS5DEhpY3zHEAcjrphlW8mpzcrpI"
+      ]
+    }
+  ]
+}
